@@ -1,0 +1,36 @@
+.imagen{
+    width: 100%;
+}
+.contenedor_imagenes{
+    overflow: hidden;
+}
+
+.medellin{
+    position: relative;
+    transition: all 1s;
+    left: 0;
+}
+.oriente{
+    width: 100%;
+    z-index: 2;
+}
+.contenido_oriente{
+    
+    position: relative;
+    top: -53.2%;
+    left: -8%;
+    height: 52.8%;
+    z-index: -1;
+    transition: all 1s;
+}
+
+
+.medellin_hover{
+    left:100%;
+}
+
+
+.contenido_oriente_hover {
+    visibility: visible;
+    left: 100%;
+}

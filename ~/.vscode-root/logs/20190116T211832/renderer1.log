@@ -1,0 +1,49 @@
+[2019-01-16 21:18:39.142] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-01-16 21:20:10.916] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-16 21:21:23.035] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-16 21:27:45.702] [renderer1] [error] Inotify limit reached (ENOSPC)
+[2019-01-16 21:35:06.037] [renderer1] [error] cannot open file:///home/juanfer/proyectos_react/motesori/src/imagenes. Detail: File is directory: Error: cannot open file:///home/juanfer/proyectos_react/motesori/src/imagenes. Detail: File is directory
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4490:262
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2019-01-16 21:48:53.717] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-16 21:49:10.431] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-16 21:52:00.465] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-16 21:52:01.515] [renderer1] [error] Error processing request. Debug Failure. Did not expect JsxExpression to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxExpression to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116455:30)
+    at createChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116444:9)
+    at NodeObject.getChildren (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116388:56)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93184:30)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at find (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93204:32)
+    at Object.findPrecedingToken (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:93177:22)
+    at Object.getJsxClosingTagAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:117821:28)
+    at IOSession.Session.getJsxClosingTag (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124995:56)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:124458:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125815:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125824:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:125846:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127106:27)
+    at emitOne (events.js:116:13)
+    at Interface.emit (events.js:211:7)
+    at Interface._onLine (readline.js:282:10)
+    at Interface._normalWrite (readline.js:424:12)
+    at Socket.ondata (readline.js:141:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20)
+[2019-01-16 21:52:20.496] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

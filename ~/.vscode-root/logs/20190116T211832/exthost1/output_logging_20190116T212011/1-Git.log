@@ -1,0 +1,250 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/juanfer/proyectos_react/motesori
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git check-ignore -z --stdin
+> git show :src/logo.svg
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/logo.svg
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/logo.svg
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git check-ignore -z --stdin
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/App.js
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.js
+> git ls-files --stage -- src/Components/Contenido/
+> git show :src/Components/Contenido/Contenido.css
+> git ls-files --stage -- src/Components/Contenido/
